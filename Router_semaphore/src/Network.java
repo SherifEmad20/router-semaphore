@@ -1,13 +1,3 @@
-/*	Name: Sherif Emad Taha
- *  ID: 20196028
- * 	
- * 	Name: Youssef El-Sayed Mahmoud
- * 	ID: 20196062
- * 	
- * 	Name: Muhamed Essam El-Den
- * 	ID: 20196047
- */
-
 import java.util.*;
 import java.io.*;
 
