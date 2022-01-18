@@ -1,0 +1,22 @@
+(c1)(1) Arrived
+Connection 1: c1 occupied
+(c4)(4) Arrived
+Connection 2: c4 occupied
+Connection 1: c1 login
+c3(3) Arrived and waiting
+c2(2) Arrived and waiting
+Connection 2: c4 login
+Connection 1: c1 preform online activity
+Connection 2: c4 preform online activity
+c1 Loged out
+(c3)(3) Arrived
+Connection 2: c3 occupied
+c4 Loged out
+Connection 2: c3 login
+Connection 2: c3 preform online activity
+(c2)(2) Arrived
+Connection 2: c2 occupied
+c3 Loged out
+Connection 2: c2 login
+Connection 2: c2 preform online activity
+c2 Loged out
